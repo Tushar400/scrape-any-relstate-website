@@ -1,2 +1,2 @@
-# scrape-any-relstate-website
-i can scrape any real state website by python bs4 and selenium
+#web scraping/data scraping
+i can scrape any  website by python bs4 and selenium.
